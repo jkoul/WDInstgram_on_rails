@@ -1,28 +1,8 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+*User Stories*
+-As a user, I want the site to load effectively.
+-As a user, I want to be able to create new posts.
+-As a user, I want to be able to update posts.
+-As a user, I want to see the time at which posts were posted.
+-As a user, I want to be able to delete posts.
